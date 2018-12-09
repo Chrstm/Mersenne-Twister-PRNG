@@ -1,2 +1,5 @@
 # Mersenne-Twister-PRNG
-pure python implementation of random in python
+
+Mersenne Twister random number generator
+pure python implementation of the class random in python
+refer to cpython/Lib/random.py & cpython/Modules/_randommodule.c
